@@ -1,0 +1,22 @@
+body {
+  background: rgb(134, 229, 233);
+  color:chocolate;
+ 
+}
+h1{
+color: red;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+button{
+   justify-content: center;
+   width: 100px;
+   height: 100px;
+   color:blue;
+   background: yellow;
+   border-radius: 10px;
+   box-shadow: 0 0 10px;
+
+
+
+
+}
